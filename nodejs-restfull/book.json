@@ -1,0 +1,32 @@
+{
+	"book1":{
+		"id":1,
+		"name":"JavaScript权威指南",
+		"publisher":"电子工业出版社",
+		"description":"学习JavaScript最佳教程"
+	},
+	"book2":{
+		"id":2,
+		"name":"Java权威指南",
+		"publisher":"电子工业出版社",
+		"description":"学习Java最佳教程"
+	},
+	"book3":{
+		"id":3,
+		"name":"Angularjs权威指南",
+		"publisher":"电子工业出版社",
+		"description":"学习Angularjs最佳教程"
+	},
+	"book4":{
+		"id":4,
+		"name":"Android权威指南",
+		"publisher":"电子工业出版社",
+		"description":"学习Android最佳教程"
+	},
+	"book5":{
+		"id":5,
+		"name":"C++权威指南",
+		"publisher":"电子工业出版社",
+		"description":"学习C++最佳教程"
+	}
+}
